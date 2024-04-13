@@ -114,7 +114,7 @@
 
 ## Introduction
 
-**My Note**I wanted to learn TypeScript but I'm too lazy to find the resources online. I found this 30-Days-Of-JavaScript when I had the motivation to learn JavaScript (before I dropped it). Now, I'm using this guide to learn TypeScript. Let's see how this goes. 
+**My Note**: I wanted to learn TypeScript but I'm too lazy to find the resources online. I found this 30-Days-Of-JavaScript when I had the motivation to learn JavaScript (before I dropped it). Now, I'm using this guide to learn TypeScript. Let's see how this goes. 
 
 **Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge, you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge,  you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the dedicated [telegram group](https://t.me/ThirtyDaysOfJavaScript). 
 
