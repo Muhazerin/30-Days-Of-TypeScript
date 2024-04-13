@@ -147,6 +147,7 @@ I believe you have the motivation and a strong desire to be a developer, a compu
 
 ### Install Node.js
 
+**Zerin**: I recommend installing both Node.js and npm. Documentation [here](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 You may not need Node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
 
 ![Node download](images/download_node.png)
@@ -163,6 +164,21 @@ v12.14.0
 ```
 
 When making this tutorial I was using Node version 12.14.0, but now the recommended version of Node.js for download is v14.17.6, by the time you use this material you may have a higher Node.js version.
+
+### Typescript
+
+Follow this [link](https://www.typescriptlang.org/download) to install TypeScript.
+After installing TypeScript in the main directory, type this command to initialize your project by creating a `tsconfig.json` file.
+
+```sh
+npx tsc --init
+```
+
+#### Compiling TypeScript to vanilla JavaScript
+
+```sh
+npx tsc <name of the .ts file>
+```
 
 ### Browser
 
